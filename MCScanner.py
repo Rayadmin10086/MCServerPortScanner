@@ -2,7 +2,7 @@
 from python_mcstatus import JavaStatusResponse, statusJava
 from MCSContent import *
 
-host = 'play.simpfun.cn'
+host = input("请输入服务器的IP或域名:")
 start_port = int(input("请输入开始端口:"))
 end_port = int(input("请输入结束端口:"))
 query = True
