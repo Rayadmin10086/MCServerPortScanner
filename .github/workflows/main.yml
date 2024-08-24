@@ -11,4 +11,4 @@ jobs:
           spec: 'MCScanner.py'
           requirements: 'requirements.txt'
           upload_exe_with_name: 'MCScanner'
-          options: --onefile, --name "MCScanner", --windowed, 
+          options: --onefile, --name "MCScanner", 
