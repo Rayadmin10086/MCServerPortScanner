@@ -1,4 +1,5 @@
-name:Windows Executable
+name: Windows Executable
+on: push
 jobs:
   pyinstaller-build:
     runs-on: windows-latest
