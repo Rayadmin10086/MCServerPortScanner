@@ -1,1 +1,2 @@
 MCSContent==1.0
+python-mcstatus==0.0.1
